@@ -1,0 +1,26 @@
+{
+	"name": "banfromdiscord",
+	"version": "1.0.0",
+	"description": "banhammerbanhammerbanhammerbanhammerbanhammer",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"author": "pollovolante",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pollovolante/BanFromDiscord.git"
+	},
+	"bugs": {
+		"url": "https://github.com/pollovolante/BanFromDiscord/issues"
+	},
+	"homepage": "https://github.com/pollovolante/BanFromDiscord#readme",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"body-parser": "^1.19.0",
+		"discord.js": "^12.5.3",
+		"dotenv": "^9.0.0",
+		"express": "^4.17.1"
+	}
+}
